@@ -16,5 +16,17 @@ Make sure Python is installed. Then run:
 ```bash
 python shopping_cart.py
 
+~ Input data:
+
+What item would you like to buy? :
+What is the price? :
+How many would you like? :
+
+~Output as:
+
+You have bought {Quantity} x {Item} 
+Your total is : Rs.{Total}
+
+
 👨‍💻 Author
 Deepak Singh
